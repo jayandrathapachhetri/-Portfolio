@@ -1,3 +1,6 @@
+import React from "react";
+import "./style.css";
+
 function Experience() {
   return (
     <section className="experience" id="experience">

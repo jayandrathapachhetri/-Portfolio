@@ -1,3 +1,6 @@
+import React from "react";
+import "./style.css";
+
 function Portfolio() {
   return (
     <section className="portfolio" id="portfolio">
