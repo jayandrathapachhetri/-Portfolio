@@ -148,7 +148,7 @@ header .navbar a:hover {
 .navbar li{
   display: inline-block;
   list-style: none;
-  padding: 12px 7px;
+  padding: 10px 5px;
 }
 
 .nav-bar-link{
