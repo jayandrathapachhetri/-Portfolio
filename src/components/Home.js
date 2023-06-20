@@ -1,5 +1,6 @@
 import React from "react";
 import "./style.css";
+// import Footer from "./Footer";
 
 const Home = () => {
   return (
@@ -31,6 +32,7 @@ const Home = () => {
           }}
         />
       </div>
+      {/* <Footer/> */}
     </section>
   );
 };
