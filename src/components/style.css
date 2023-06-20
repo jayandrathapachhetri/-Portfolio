@@ -402,7 +402,7 @@ header .navbar a:hover {
 }
 
 .service .box-container .box {
-  flex: 1 1 40rem;
+  flex: 1 1 50rem;
   text-align: center;
   padding: 2rem;
   background: #fff;
