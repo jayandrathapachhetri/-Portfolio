@@ -1,6 +1,5 @@
-// import react from "router";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-// import "./App.css";
+import "./index.css";
 import Home from "./components/Home";
 import Header from "./components/Header";
 import About from "./components/About";
@@ -8,10 +7,6 @@ import Services from "./components/Services";
 import Experience from "./components/Experience";
 import Portfolio from "./components/Portfolio";
 import Contact from "./components/Contact";
-// import Header from "./components/Header";
-// import "bootstrap/dist/css/bootstrap.min.css";
-// import {Navbar, Nav} from 'react-router-dom'
-// import { Navbar } from 'react-bootstrap';
 
 function App() {
   return (
@@ -27,6 +22,10 @@ function App() {
           <Route path="/contact" element={<Contact />} />
         </Routes>
       </BrowserRouter>
+
+      <footer class="footer">
+        Created By <span> Mr. jayandra thapa </span> | All rights reserved!
+      </footer>
     </div>
   );
 }

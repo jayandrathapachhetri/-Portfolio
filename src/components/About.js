@@ -1,5 +1,5 @@
 import React from "react";
-import "./style.css";
+// import "./style.css";
 import '@fortawesome/fontawesome-free/css/all.css';
 
 
@@ -59,10 +59,10 @@ function About() {
               </p>
             </div>
           </div>
-          <a href="#" className="btn">
+          <a href="cv" className="btn">
             Download CV
           </a>
-          <a href="#" className="btn">
+          <a href="hire" className="btn">
             Hire Me
           </a>
         </div>

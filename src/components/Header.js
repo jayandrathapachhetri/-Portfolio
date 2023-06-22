@@ -2,7 +2,7 @@
 import {NavLink } from "react-router-dom";
 // import react from "react-router-dom";
 
-import "./style.css";
+// import "./style.css";
 
 function Header() {
   return (
