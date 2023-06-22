@@ -16,7 +16,7 @@ const Home = () => {
           passion and enthusiasm, i'm always ready for new adventures and
           challenges.
         </p>
-        <a href="#about" className="btn">
+        <a href="/about" className="btn">
           About Me
         </a>
       </div>
