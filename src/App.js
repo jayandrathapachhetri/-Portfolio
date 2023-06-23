@@ -24,7 +24,7 @@ function App() {
       </BrowserRouter>
 
       <footer class="footer">
-        Created By <span> Mr. jayandra thapa </span> | All rights reserved!
+        Created By <span> Mr. jayandra thapa </span> | &copy; All rights reserved!
       </footer>
     </div>
   );
